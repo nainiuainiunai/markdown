@@ -19,9 +19,10 @@
 ![alt 一张风景照片](https://github.com/nainiuainiunai/markdown/blob/master/1.jpg)
 
 ---
-#超链接
+#超链接  
+[百度](http://baidu.com)
 
-[百度]（www.baidu.com）
+
 
 
 ---
@@ -52,4 +53,6 @@
 function(){
     console.log(a);
 }
-```
+```  
+---
+[参考文章链接](https://www.jianshu.com/p/191d1e21f7ed)
